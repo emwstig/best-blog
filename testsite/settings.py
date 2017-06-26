@@ -25,7 +25,7 @@ SECRET_KEY = 't2p5-$2vzrsnf&5io60201eeua!8#$_em^-v=@+%4fo@jl3==f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'agenda.pythonanywhere.com']
 
 # Application definition
 
